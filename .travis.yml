@@ -18,5 +18,5 @@ deploy:
   verbose: true
   target_branch: master
   on:
-    branch: develop
+    branch: pelotas
   fqdn: fossday.org
